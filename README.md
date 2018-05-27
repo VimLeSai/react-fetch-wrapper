@@ -1,5 +1,5 @@
 # react-fetch-wrapper
-Do easily call API and make work faster. It has now functionalities like compatible with every method (GET, POST, PUT, DELETE and more.), direct option to send data while the use of the POST, PUT method, and have an option for an optional data as a query string parameter.
+Make easy call API and make work faster. It has now functionalities like compatible with every method (GET, POST, PUT, DELETE and more.), direct option to send data while the use of the POST, PUT method, and have an option for an optional data as a query string parameter.
 
 it's an easy to use package for a fetch API call. React-fetch-wrapper will need one passing parameter which would contain URL, method, data(optional), queryString parameters(optional).
 
